@@ -27,7 +27,7 @@ Steps to run project
 
 1) clone this project "https://github.com/rtsojitra/collat_test.git"
 
-2) import the project in netbeans eclispe 
+2) import the project in netbeans 
 
 3) right click on the project > RUN
 
