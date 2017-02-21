@@ -40,12 +40,19 @@ File-1.txt
 -------------------------------------------------
 
 sky blue 
-sun yellow round 
+
+sun yellow round
+
 blue color
+
 color . # example, pink blue red
+
 shape .
+
 round shape
+
 circle shape
+
 
 File-1.txt output
 
@@ -59,8 +66,11 @@ File-2.txt
 -------------------------------------------------
 
 red color
+
 color .
+
 blood red
+
 
 File-2.txt output
 
