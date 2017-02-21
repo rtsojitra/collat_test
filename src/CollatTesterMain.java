@@ -14,6 +14,7 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -23,11 +24,11 @@ import java.util.StringJoiner;
 public class CollatTesterMain {
 
 	// Operating system
-	private static String OS = System.getProperty("os.name").toLowerCase(); 
+	private static final String OS = System.getProperty("os.name").toLowerCase(); 
 
 	// function to check if OS = windows
 	private static boolean isWindows() {
-		return (OS.indexOf("win") >= 0);
+		return (OS.contains("win"));
 	}
 
 	/*****************************************************
@@ -168,7 +169,7 @@ public class CollatTesterMain {
 				}
 
 			}
-		} catch (Exception e) {
+		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
