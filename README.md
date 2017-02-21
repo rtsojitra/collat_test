@@ -12,12 +12,12 @@ example: In "blue color", blue is keyword and color is definition
 Keywords can have definition of period which is considered as PRIMITIVE KEYWORD
 example: "color ."
 
-
+All the code for this project is written in main java file i.e.CollatTesterMain.java (located in "collat_test/src/" folder). 
 
 ==================================================
 Pre-requisite:
 ==================================================
-- This project is written in JAVA so in order to run the project, JAVA needs to be installed on the system.
+- This project is written in JAVA so in order to run the project, JAVA needs to be installed on the system. 
 - input text file should be located in "/tmp/collat_test" folder. If you're using windows OS, please place file in C:\tmp\collat_test
 
 
@@ -32,3 +32,5 @@ Steps to run project
 3) right click on the project > RUN
 
 sample input files can be found in "sample input files" folder
+
+
