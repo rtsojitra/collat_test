@@ -48,7 +48,9 @@ round shape
 circle shape
 
 File-1.txt output
+
 ..................................................
+
 
 color, shape, blue, round, yellow, sky, circle, sun
 
@@ -61,5 +63,7 @@ color .
 blood red
 
 File-2.txt output
+
 ..................................................
+
 color, red, blood
