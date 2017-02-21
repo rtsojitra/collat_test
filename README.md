@@ -24,11 +24,8 @@ Pre-requisite:
 ==================================================
 Steps to run project
 ==================================================
-1) copy the project in any directory
-2) open terminal
-3) navigate to "{directory}/collat_test/src/" folder
-4) execute "javac CollatTesterMain.java" to compile the project
-5) to run the project, execute "java CollectTesterMain".
-
+1) clone this project "https://github.com/rtsojitra/collat_test.git"
+2) import the project in netbeans eclispe 
+3) right click on the project > RUN
 
 sample input files can be found in "sample input files" folder
