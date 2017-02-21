@@ -24,8 +24,11 @@ Pre-requisite:
 ==================================================
 Steps to run project
 ==================================================
+
 1) clone this project "https://github.com/rtsojitra/collat_test.git"
+
 2) import the project in netbeans eclispe 
+
 3) right click on the project > RUN
 
 sample input files can be found in "sample input files" folder
