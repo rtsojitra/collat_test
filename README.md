@@ -1,4 +1,4 @@
-# collat_test
+# Collat_TEST
 
 ==================================================
 Purpose:
@@ -26,54 +26,9 @@ Steps to run project
 ==================================================
 1) copy the project in any directory
 2) open terminal
-3) navigate to "{directory}/Collat_test/src/" folder
+3) navigate to "{directory}/collat_test/src/" folder
 4) execute "javac CollatTesterMain.java" to compile the project
 5) to run the project, execute "java CollectTesterMain".
 
 
-==================================================
-Example of INPUT/OUTPUT 
-==================================================
-Below are examples of input and output.
--------------------------------------------------
-File-1.txt
--------------------------------------------------
-
-sky blue 
-
-sun yellow round
-
-blue color
-
-color . # example, pink blue red
-
-shape .
-
-round shape
-
-circle shape
-
-
-File-1.txt output
-
-..................................................
-
-
-color, shape, blue, round, yellow, sky, circle, sun
-
--------------------------------------------------
-File-2.txt
--------------------------------------------------
-
-red color
-
-color .
-
-blood red
-
-
-File-2.txt output
-
-..................................................
-
-color, red, blood
+sample input files can be found in "sample input files" folder
